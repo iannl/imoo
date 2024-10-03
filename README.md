@@ -1,3 +1,5 @@
+Moo hasn't been updated in a couple of years, and there are some features that I believe could be improved. Please also take a look at the [original repository](https://github.com/no-context/moo).
+===
 ![](cow.png)
 
 Moo!
