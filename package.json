@@ -6,7 +6,10 @@
   "files": [
     "moo.js"
   ],
-  "repository": "https://github.com/iannl/imoo.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iannl/imoo.git"
+  },
   "author": "iannl",
   "contributors": [
     "Tim Radvan <tim@tjvr.org>",
